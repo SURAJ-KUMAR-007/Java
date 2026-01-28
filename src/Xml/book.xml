@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE LIBRARY SYSTEM "book.dtd" >
+<LIBRARY>
+    <BOOK id="B001">
+        <TITLE>fe</TITLE>
+        <AUTHOR>fes</AUTHOR>
+        <PRICE>fe</PRICE>
+    </BOOK>
+    <Bool/>
+</LIBRARY>
+
