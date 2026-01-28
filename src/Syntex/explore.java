@@ -1,3 +1,5 @@
+package Syntex;
+
 public class explore {
      class Box<T>
     {

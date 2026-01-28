@@ -103,7 +103,7 @@
 ### ✅ Example Code
 
 ```java
-public class Bicycle {
+public class Oops.Bicycle {
     // 🔹 Fields
     int speed;              // instance field
     static int count = 0;   // static/class field

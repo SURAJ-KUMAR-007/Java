@@ -1,3 +1,5 @@
+package Syntex;
+
 import java.util.*;
 import java.util.List;
 public class _4_Collections {

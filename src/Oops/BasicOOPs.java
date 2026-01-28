@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package Oops;
+
 interface BicycleInterface{
     //by default all interface methods are implicitly public and abstract
     //So, the implementing methods in the class must also be public,

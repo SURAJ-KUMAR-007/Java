@@ -1,3 +1,5 @@
+package Syntex;
+
 public class _3_Array {
 
     /*
