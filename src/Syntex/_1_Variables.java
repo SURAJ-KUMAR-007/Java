@@ -1,3 +1,5 @@
+package Syntex;
+
 public class _1_Variables {
 
     // 🔹 Class Variable (Static Field)

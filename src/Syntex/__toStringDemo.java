@@ -1,3 +1,5 @@
+package Syntex;
+
 public class __toStringDemo {
      /*
      ✅ What is toString() in Java?
